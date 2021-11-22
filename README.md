@@ -10,7 +10,7 @@ To power this, we are leveraging GitHub's new Discussions tool within this repos
 
 We’ve created four categories to help you find the right place to jump in:
 * **Help** - Stuck on something you’re trying to build? This is a great place to ask questions, or to see if there’s anyone you can help by answering their questions! 
-* **Ideas & Feature Requests** - We’d love to hear your ideas on how to improve the Storefront API functionality or developer ergonomics, as well as any specific feature requests. We ask that you to first look through the other posts and upvote those before posting to avoid duplicates.
+* **Ideas & Feature Requests** - We’d love to hear your ideas on how to improve Marketplace Kit functionality or developer ergonomics, as well as any specific feature requests. We ask that you to first look through the other posts and upvote those before posting to avoid duplicates.
 * **RFC** - We need your input! Preview and chime in on the design of upcoming features to ensure that they effectively address your commerce and marketplace needs.
 * **Show & Tell** - Share your creative examples of Marketplaces, and what you’ve built.
  
