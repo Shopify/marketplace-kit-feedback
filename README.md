@@ -16,4 +16,4 @@ We’ve created four categories to help you find the right place to jump in:
  
 If you’d like to learn more about Marketplaces start [here](https://shopify.dev/marketplaces).
 
-*Please remember this is a public forum. To help you get the most of this space, please adhere to our [code of conduct](https://github.com/Shopify/marketplace-kit-feedback/CODE_OF_CONDUCT.md).* 
+*Please remember this is a public forum. To help you get the most of this space, please adhere to our [code of conduct](https://github.com/Shopify/marketplace-kit-feedback/blob/main/CODE_OF_CONDUCT.md).* 
