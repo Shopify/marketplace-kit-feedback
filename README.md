@@ -1,6 +1,6 @@
 # Marketplace Kit Feedback
 
-**Welcome to the new home for all discussions and support regarding Shopify's Marketplace Kit!**
+**Welcome to the new home for all discussions and support regarding [Shopify's Marketplace Kit](https://shopify.dev/marketplaces)!**
 
 Whether you are new to Shopify's developer ecosystem or a seasoned veteran, this is the place where you can ask for help, propose new features, give your opinions, and show off what marketplace expereinces you have built with Marketplace Kit. 
 
